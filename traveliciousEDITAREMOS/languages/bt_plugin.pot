@@ -2,13 +2,13 @@
 # Copyright (C) YEAR BoldThemes
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-02-26 17:36+0100\n"
+"POT-Creation-Date: 2019-09-24 04:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,1504 +16,756 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
 
-#: craftportfolio.php:1663
-msgid "dys"
+#: travelicious.php:51
+msgid "Day"
 msgstr ""
 
-#: craftportfolio.php:1664
-msgid "hrs"
+#: travelicious.php:52
+msgid "Month"
 msgstr ""
 
-#: craftportfolio.php:1665
-msgid "min"
+#: travelicious.php:53
+msgid "Year"
 msgstr ""
 
-#: craftportfolio.php:1666
-msgid "sec"
+#: travelicious.php:72
+msgid "Header Left Widgets"
 msgstr ""
 
-#: craftportfolio.php:2138 craftportfolio.php:2394 craftportfolio.php:3885
-msgid "by"
+#: travelicious.php:78
+msgid "Header Right Widgets"
 msgstr ""
 
-#: craftportfolio.php:2279
-msgid "Category filter:"
+#: travelicious.php:84
+msgid "Header Menu Widgets"
 msgstr ""
 
-#: craftportfolio.php:2280
-msgid "All"
+#: travelicious.php:90
+msgid "Header Logo Widgets"
 msgstr ""
 
-#: craftportfolio.php:2289
-msgid "No more posts"
+#: travelicious.php:96
+msgid "Footer Widgets"
 msgstr ""
 
-#: craftportfolio.php:2543 craftportfolio.php:2545 craftportfolio.php:2866 craftportfolio.php:3017
-msgid "Image"
+#: travelicious.php:116
+msgid "Add New Destination"
 msgstr ""
 
-#: craftportfolio.php:2543
-msgid "Single image"
+#: travelicious.php:117
+msgid "New Destination"
 msgstr ""
 
-#: craftportfolio.php:2546
-msgid "Caption Text"
+#: travelicious.php:118
+msgid "Edit Destination"
 msgstr ""
 
-#: craftportfolio.php:2547
-msgid "Size (e.g. thumbnail, medium, large, full)"
+#: travelicious.php:119
+msgid "View Destination"
 msgstr ""
 
-#: craftportfolio.php:2548
-msgid "Shape"
+#: travelicious.php:120
+msgid "All Destinations"
 msgstr ""
 
-#: craftportfolio.php:2550
-msgid "Square"
+#: travelicious.php:121
+msgid "Search Destinations"
 msgstr ""
 
-#: craftportfolio.php:2551
-msgid "Circle"
+#: travelicious.php:122
+msgid "Parent Destinations:"
 msgstr ""
 
-#: craftportfolio.php:2553 craftportfolio.php:2825 craftportfolio.php:2867 craftportfolio.php:2894
-#: craftportfolio.php:3076
-msgid "URL"
+#: travelicious.php:123
+msgid "No destinations found."
 msgstr ""
 
-#: craftportfolio.php:2554
-msgid "Target"
+#: travelicious.php:124
+msgid "No destinations found in Trash."
 msgstr ""
 
-#: craftportfolio.php:2556 craftportfolio.php:2898 craftportfolio.php:3080
-msgid "Self"
+#: travelicious.php:137
+msgid "Destination Categories"
 msgstr ""
 
-#: craftportfolio.php:2557 craftportfolio.php:2899 craftportfolio.php:3081
-msgid "Blank"
+#: travelicious.php:152
+msgid "Add New Tour"
 msgstr ""
 
-#: craftportfolio.php:2559 craftportfolio.php:2625 craftportfolio.php:2632 craftportfolio.php:2639
-#: craftportfolio.php:2647 craftportfolio.php:2706 craftportfolio.php:2757 craftportfolio.php:2783
-#: craftportfolio.php:2833 craftportfolio.php:2849 craftportfolio.php:2885 craftportfolio.php:2934
-#: craftportfolio.php:2947 craftportfolio.php:2965 craftportfolio.php:2980 craftportfolio.php:3010
-#: craftportfolio.php:3018 craftportfolio.php:3048 craftportfolio.php:3085 craftportfolio.php:3092
-#: craftportfolio.php:3126 craftportfolio.php:3189 craftportfolio.php:3223 craftportfolio.php:3236
-msgid "Extra Class Name(s)"
+#: travelicious.php:153
+msgid "New Tour"
 msgstr ""
 
-#: craftportfolio.php:2560 craftportfolio.php:2626 craftportfolio.php:2633 craftportfolio.php:2640
-#: craftportfolio.php:2648 craftportfolio.php:2707 craftportfolio.php:2758 craftportfolio.php:2784
-#: craftportfolio.php:2834 craftportfolio.php:2850 craftportfolio.php:2886 craftportfolio.php:2935
-#: craftportfolio.php:2948 craftportfolio.php:2966 craftportfolio.php:2981 craftportfolio.php:3011
-#: craftportfolio.php:3019 craftportfolio.php:3049 craftportfolio.php:3086 craftportfolio.php:3093
-#: craftportfolio.php:3127 craftportfolio.php:3190 craftportfolio.php:3224 craftportfolio.php:3237
-msgid "Inline Style"
+#: travelicious.php:154
+msgid "Edit Tour"
 msgstr ""
 
-#: craftportfolio.php:2564
-msgid "Section"
+#: travelicious.php:155
+msgid "View Tour"
 msgstr ""
 
-#: craftportfolio.php:2564
-msgid "Basic root element"
+#: travelicious.php:156
+msgid "All Tours"
 msgstr ""
 
-#: craftportfolio.php:2566
-msgid "Layout"
+#: travelicious.php:157
+msgid "Search Tours"
 msgstr ""
 
-#: craftportfolio.php:2568
-msgid "Boxed"
+#: travelicious.php:158
+msgid "Parent Tours:"
 msgstr ""
 
-#: craftportfolio.php:2569
-msgid "Wide"
+#: travelicious.php:159
+msgid "No tours found."
 msgstr ""
 
-#: craftportfolio.php:2571 craftportfolio.php:3025
-msgid "Top spaced"
+#: travelicious.php:160
+msgid "No tours found in Trash."
 msgstr ""
 
-#: craftportfolio.php:2573 craftportfolio.php:2582 craftportfolio.php:2597 craftportfolio.php:2609
-#: craftportfolio.php:2694 craftportfolio.php:2699 craftportfolio.php:2734 craftportfolio.php:2739
-#: craftportfolio.php:2778 craftportfolio.php:2829 craftportfolio.php:2897 craftportfolio.php:2962
-#: craftportfolio.php:2997 craftportfolio.php:3002 craftportfolio.php:3007 craftportfolio.php:3027
-#: craftportfolio.php:3036 craftportfolio.php:3045 craftportfolio.php:3079 craftportfolio.php:3114
-#: craftportfolio.php:3119 craftportfolio.php:3124 craftportfolio.php:3144 craftportfolio.php:3171
-#: craftportfolio.php:3181 craftportfolio.php:3186
-msgid "No"
+#: travelicious.php:173
+msgid "Tour Categories"
 msgstr ""
 
-#: craftportfolio.php:2574 craftportfolio.php:2583 craftportfolio.php:3028 craftportfolio.php:3037
-msgid "Extra-Small-Spaced"
+#: travelicious.php:174
+msgid "Tour Destinations"
 msgstr ""
 
-#: craftportfolio.php:2575 craftportfolio.php:2584 craftportfolio.php:3029 craftportfolio.php:3038
-msgid "Small-Spaced"
+#: travelicious.php:175
+msgid "Tour Includes"
 msgstr ""
 
-#: craftportfolio.php:2576 craftportfolio.php:2585 craftportfolio.php:3030 craftportfolio.php:3039
-msgid "Semi-Spaced"
+#: travelicious.php:176
+msgid "Tour Tags"
 msgstr ""
 
-#: craftportfolio.php:2577 craftportfolio.php:2586 craftportfolio.php:3031 craftportfolio.php:3040
-msgid "Spaced"
+#: travelicious.php:176
+msgid "Tag"
 msgstr ""
 
-#: craftportfolio.php:2578 craftportfolio.php:2587 craftportfolio.php:3032 craftportfolio.php:3041
-msgid "Extra-Spaced"
+#: travelicious.php:220
+msgid "More than 1"
 msgstr ""
 
-#: craftportfolio.php:2580 craftportfolio.php:3034
-msgid "Bottom spaced"
+#: travelicious.php:265
+msgid "Not specified yet"
 msgstr ""
 
-#: craftportfolio.php:2589
-msgid "Skin"
+#: travelicious.php:912
+msgid "Newer Posts"
 msgstr ""
 
-#: craftportfolio.php:2591 craftportfolio.php:2602 craftportfolio.php:2662 craftportfolio.php:2727
-msgid "Inherit"
+#: travelicious.php:913
+msgid "Older Posts"
 msgstr ""
 
-#: craftportfolio.php:2592
-msgid "Dark"
+#: travelicious.php:1120
+msgid "Select Tour Date"
 msgstr ""
 
-#: craftportfolio.php:2593 craftportfolio.php:2919
-msgid "Light"
-msgstr ""
-
-#: craftportfolio.php:2595
-msgid "Full Screen"
-msgstr ""
-
-#: craftportfolio.php:2598 craftportfolio.php:2610 craftportfolio.php:2695 craftportfolio.php:2700
-#: craftportfolio.php:2735 craftportfolio.php:2740 craftportfolio.php:2963 craftportfolio.php:2998
-#: craftportfolio.php:3003 craftportfolio.php:3008 craftportfolio.php:3046 craftportfolio.php:3113
-#: craftportfolio.php:3118 craftportfolio.php:3123 craftportfolio.php:3145 craftportfolio.php:3172
-#: craftportfolio.php:3182 craftportfolio.php:3187
-msgid "Yes"
-msgstr ""
-
-#: craftportfolio.php:2600 craftportfolio.php:2660 craftportfolio.php:2725
-msgid "Vertical Align"
-msgstr ""
-
-#: craftportfolio.php:2603 craftportfolio.php:2663 craftportfolio.php:2728 craftportfolio.php:2779
-#: craftportfolio.php:2901 craftportfolio.php:3083
-msgid "Top"
-msgstr ""
-
-#: craftportfolio.php:2604 craftportfolio.php:2664 craftportfolio.php:2729
-msgid "Middle"
-msgstr ""
-
-#: craftportfolio.php:2605 craftportfolio.php:2665 craftportfolio.php:2730 craftportfolio.php:2780
-#: craftportfolio.php:2830
-msgid "Bottom"
-msgstr ""
-
-#: craftportfolio.php:2607
-msgid "Divider"
-msgstr ""
-
-#: craftportfolio.php:2612
-msgid "Background Image"
-msgstr ""
-
-#: craftportfolio.php:2613 craftportfolio.php:2702 craftportfolio.php:2755
-msgid "Background color"
-msgstr ""
-
-#: craftportfolio.php:2614
-msgid "YouTube Background Video"
-msgstr ""
-
-#: craftportfolio.php:2615
-msgid "Video Settings (e.g. startAt:20, mute:true, stopMovieOnBlur:false)"
-msgstr ""
-
-#: craftportfolio.php:2616
-msgid "MP4 Background Video"
-msgstr ""
-
-#: craftportfolio.php:2617
-msgid "Ogg Background Video"
-msgstr ""
-
-#: craftportfolio.php:2618
-msgid "WebM Background Video"
-msgstr ""
-
-#: craftportfolio.php:2619
-msgid "Parallax (e.g. -.7)"
-msgstr ""
-
-#: craftportfolio.php:2620
-msgid "Parallax Offset in px (e.g. -100)"
-msgstr ""
-
-#: craftportfolio.php:2621
-msgid "Animation (forward)"
-msgstr ""
-
-#: craftportfolio.php:2622
-msgid "Animation (backward)"
-msgstr ""
-
-#: craftportfolio.php:2623
-msgid "Impress Animation Settings"
-msgstr ""
-
-#: craftportfolio.php:2624
-msgid "Custom Id Attribute"
-msgstr ""
-
-#: craftportfolio.php:2630
-msgid "Row"
-msgstr ""
-
-#: craftportfolio.php:2630
-msgid "Row element"
-msgstr ""
-
-#: craftportfolio.php:2637
-msgid "Inner Row"
-msgstr ""
-
-#: craftportfolio.php:2637
-msgid "Inner Row element"
-msgstr ""
-
-#: craftportfolio.php:2644
-msgid "Custom Menu"
-msgstr ""
-
-#: craftportfolio.php:2646
-msgid "Menu Name"
-msgstr ""
-
-#: craftportfolio.php:2652
-msgid "Column"
-msgstr ""
-
-#: craftportfolio.php:2652
-msgid "Column element"
-msgstr ""
-
-#: craftportfolio.php:2654 craftportfolio.php:2713
-msgid "Align"
-msgstr ""
-
-#: craftportfolio.php:2656 craftportfolio.php:2670 craftportfolio.php:2715 craftportfolio.php:2913
-msgid "Left"
-msgstr ""
-
-#: craftportfolio.php:2657 craftportfolio.php:2671 craftportfolio.php:2716 craftportfolio.php:2911
-msgid "Right"
-msgstr ""
-
-#: craftportfolio.php:2658 craftportfolio.php:2717
-msgid "Center"
-msgstr ""
-
-#: craftportfolio.php:2667 craftportfolio.php:3043
-msgid "Border"
-msgstr ""
-
-#: craftportfolio.php:2669
-msgid "No Border"
-msgstr ""
-
-#: craftportfolio.php:2673 craftportfolio.php:2719
-msgid "Padding"
-msgstr ""
-
-#: craftportfolio.php:2675 craftportfolio.php:2721 craftportfolio.php:2808 craftportfolio.php:2814
-#: craftportfolio.php:3059 craftportfolio.php:3065
-msgid "Default"
-msgstr ""
-
-#: craftportfolio.php:2676 craftportfolio.php:2722
-msgid "No padding"
-msgstr ""
-
-#: craftportfolio.php:2677 craftportfolio.php:2723
-msgid "Double padding"
-msgstr ""
-
-#: craftportfolio.php:2679 craftportfolio.php:2742
-msgid "Animation"
-msgstr ""
-
-#: craftportfolio.php:2681 craftportfolio.php:2744
-msgid "No Animation"
-msgstr ""
-
-#: craftportfolio.php:2682 craftportfolio.php:2745
-msgid "Fade In"
-msgstr ""
-
-#: craftportfolio.php:2683 craftportfolio.php:2746
-msgid "Move Up"
-msgstr ""
-
-#: craftportfolio.php:2684 craftportfolio.php:2747
-msgid "Move Left"
-msgstr ""
-
-#: craftportfolio.php:2685 craftportfolio.php:2748
-msgid "Move Right"
-msgstr ""
-
-#: craftportfolio.php:2686 craftportfolio.php:2749
-msgid "Move Down"
-msgstr ""
-
-#: craftportfolio.php:2687 craftportfolio.php:2750
-msgid "Fade In / Move Up"
-msgstr ""
-
-#: craftportfolio.php:2688 craftportfolio.php:2751
-msgid "Fade In / Move Left"
-msgstr ""
-
-#: craftportfolio.php:2689 craftportfolio.php:2752
-msgid "Fade In / Move Right"
-msgstr ""
-
-#: craftportfolio.php:2690 craftportfolio.php:2753
-msgid "Fade In / Move Down"
-msgstr ""
-
-#: craftportfolio.php:2692 craftportfolio.php:2737
-msgid "Text indent"
-msgstr ""
-
-#: craftportfolio.php:2697
-msgid "Cell highlight"
-msgstr ""
-
-#: craftportfolio.php:2703
-msgid "Transparent (e.g. 0.4)"
-msgstr ""
-
-#: craftportfolio.php:2704
-msgid "Inner Background color"
-msgstr ""
-
-#: craftportfolio.php:2705
-msgid "Background image"
-msgstr ""
-
-#: craftportfolio.php:2711
-msgid "Inner Column"
-msgstr ""
-
-#: craftportfolio.php:2711
-msgid "Inner Column element"
-msgstr ""
-
-#: craftportfolio.php:2732
-msgid "Highlight"
-msgstr ""
-
-#: craftportfolio.php:2756
-msgid "Opacity (0 - 1, e.g. 0.4)"
-msgstr ""
-
-#: craftportfolio.php:2762 craftportfolio.php:2832 craftportfolio.php:2892 craftportfolio.php:2972
-msgid "Text"
-msgstr ""
-
-#: craftportfolio.php:2762
-msgid "Text element"
-msgstr ""
-
-#: craftportfolio.php:2764
-msgid "Header"
-msgstr ""
-
-#: craftportfolio.php:2764
-msgid "Header element"
-msgstr ""
-
-#: craftportfolio.php:2766
-msgid "Superheadline"
-msgstr ""
-
-#: craftportfolio.php:2767 craftportfolio.php:2791 craftportfolio.php:2799 craftportfolio.php:2826
-msgid "Headline"
-msgstr ""
-
-#: craftportfolio.php:2768
-msgid "Headline Size"
-msgstr ""
-
-#: craftportfolio.php:2770 craftportfolio.php:2819 craftportfolio.php:2923 craftportfolio.php:2990
-#: craftportfolio.php:3070
-msgid "Small"
-msgstr ""
-
-#: craftportfolio.php:2771 craftportfolio.php:2821 craftportfolio.php:2925 craftportfolio.php:2991
-#: craftportfolio.php:3072
-msgid "Medium"
-msgstr ""
-
-#: craftportfolio.php:2772 craftportfolio.php:2823 craftportfolio.php:2945 craftportfolio.php:2958
-#: craftportfolio.php:2992 craftportfolio.php:3074
-msgid "Large"
-msgstr ""
-
-#: craftportfolio.php:2773
-msgid "Extra large"
-msgstr ""
-
-#: craftportfolio.php:2774
-msgid "Huge"
-msgstr ""
-
-#: craftportfolio.php:2776 craftportfolio.php:2827
-msgid "Dash"
-msgstr ""
-
-#: craftportfolio.php:2782
-msgid "Subheadline"
-msgstr ""
-
-#: craftportfolio.php:2788
-msgid "Tabs"
-msgstr ""
-
-#: craftportfolio.php:2788
-msgid "Tabs container"
-msgstr ""
-
-#: craftportfolio.php:2790
-msgid "Tab Item"
-msgstr ""
-
-#: craftportfolio.php:2790
-msgid "Tabs items"
-msgstr ""
-
-#: craftportfolio.php:2795
-msgid "Accordion"
-msgstr ""
-
-#: craftportfolio.php:2795
-msgid "Accordion container"
-msgstr ""
-
-#: craftportfolio.php:2797
-msgid "Accordion Item"
-msgstr ""
-
-#: craftportfolio.php:2797
-msgid "Single accordion element"
-msgstr ""
-
-#: craftportfolio.php:2803
-msgid "Service"
-msgstr ""
-
-#: craftportfolio.php:2803
-msgid "Service element"
-msgstr ""
-
-#: craftportfolio.php:2805 craftportfolio.php:2843 craftportfolio.php:2893 craftportfolio.php:3053
-#: craftportfolio.php:3055
-msgid "Icon"
-msgstr ""
-
-#: craftportfolio.php:2806 craftportfolio.php:3057
-msgid "Icon Type"
-msgstr ""
-
-#: craftportfolio.php:2809 craftportfolio.php:2906 craftportfolio.php:2977 craftportfolio.php:3060
-msgid "Filled"
-msgstr ""
-
-#: craftportfolio.php:2810 craftportfolio.php:2905 craftportfolio.php:3061
-msgid "Outline"
-msgstr ""
-
-#: craftportfolio.php:2812 craftportfolio.php:3063
-msgid "Icon Color"
-msgstr ""
-
-#: craftportfolio.php:2815 craftportfolio.php:2918 craftportfolio.php:3066
-msgid "Accent"
-msgstr ""
-
-#: craftportfolio.php:2817 craftportfolio.php:3068
-msgid "Icon Size"
-msgstr ""
-
-#: craftportfolio.php:2820 craftportfolio.php:2924 craftportfolio.php:3071
-msgid "Extra Small"
-msgstr ""
-
-#: craftportfolio.php:2822 craftportfolio.php:2926 craftportfolio.php:3073
-msgid "Big"
-msgstr ""
-
-#: craftportfolio.php:2838
-msgid "Google Maps"
-msgstr ""
-
-#: craftportfolio.php:2838
-msgid "Google Maps with marker on specified coordinates"
-msgstr ""
-
-#: craftportfolio.php:2840
-msgid "Latitude"
-msgstr ""
-
-#: craftportfolio.php:2841
-msgid "Longitude"
-msgstr ""
-
-#: craftportfolio.php:2842
-msgid "Zoom (e.g. 14)"
-msgstr ""
-
-#: craftportfolio.php:2844
-msgid "Height (e.g. 250px)"
-msgstr ""
-
-#: craftportfolio.php:2845
-msgid "Map primary color"
-msgstr ""
-
-#: craftportfolio.php:2846
-msgid "Map secondary color"
-msgstr ""
-
-#: craftportfolio.php:2847
-msgid "Map water color"
-msgstr ""
-
-#: craftportfolio.php:2848
-msgid "Custom map style array"
-msgstr ""
-
-#: craftportfolio.php:2854
-msgid "Simple slider"
-msgstr ""
-
-#: craftportfolio.php:2856 craftportfolio.php:2880
-msgid "Type"
-msgstr ""
-
-#: craftportfolio.php:2858 craftportfolio.php:2882 craftportfolio.php:2985
-msgid "Slider"
-msgstr ""
-
-#: craftportfolio.php:2859 craftportfolio.php:2883
-msgid "Regular"
-msgstr ""
-
-#: craftportfolio.php:2864
-msgid "Simple slider item"
-msgstr ""
-
-#: craftportfolio.php:2871 craftportfolio.php:4151
-msgid "Twitter"
-msgstr ""
-
-#: craftportfolio.php:2871
-msgid "Twitter posts"
-msgstr ""
-
-#: craftportfolio.php:2873
-msgid "Number of Tweets"
-msgstr ""
-
-#: craftportfolio.php:2874
-msgid "Username"
-msgstr ""
-
-#: craftportfolio.php:2875
-msgid "Cache (minutes)"
-msgstr ""
-
-#: craftportfolio.php:2876
-msgid "Consumer Key"
-msgstr ""
-
-#: craftportfolio.php:2877
-msgid "Consumer Secret"
-msgstr ""
-
-#: craftportfolio.php:2878
-msgid "Access Token"
-msgstr ""
-
-#: craftportfolio.php:2879
-msgid "Access Token Secret"
-msgstr ""
-
-#: craftportfolio.php:2890
-msgid "Button"
-msgstr ""
-
-#: craftportfolio.php:2890
-msgid "Button with custom link"
-msgstr ""
-
-#: craftportfolio.php:2895 craftportfolio.php:3077
-msgid "Target window"
-msgstr ""
-
-#: craftportfolio.php:2900 craftportfolio.php:3082
-msgid "Parent"
-msgstr ""
-
-#: craftportfolio.php:2903 craftportfolio.php:2975
-msgid "Style"
-msgstr ""
-
-#: craftportfolio.php:2907
-msgid "Borderless"
-msgstr ""
-
-#: craftportfolio.php:2909
-msgid "Icon Position"
-msgstr ""
-
-#: craftportfolio.php:2912
-msgid "Inline"
-msgstr ""
-
-#: craftportfolio.php:2915 craftportfolio.php:2974
-msgid "Color"
-msgstr ""
-
-#: craftportfolio.php:2917 craftportfolio.php:2931 craftportfolio.php:2944 craftportfolio.php:2957
-msgid "Normal"
-msgstr ""
-
-#: craftportfolio.php:2921 craftportfolio.php:2942 craftportfolio.php:2955
-msgid "Size"
-msgstr ""
-
-#: craftportfolio.php:2929
-msgid "Width"
-msgstr ""
-
-#: craftportfolio.php:2932
-msgid "Full"
-msgstr ""
-
-#: craftportfolio.php:2939
-msgid "Counter"
-msgstr ""
-
-#: craftportfolio.php:2939
-msgid "Animated counter"
-msgstr ""
-
-#: craftportfolio.php:2941
-msgid "Number"
-msgstr ""
-
-#: craftportfolio.php:2952
-msgid "Countdown"
-msgstr ""
-
-#: craftportfolio.php:2952
-msgid "Animated countdown"
-msgstr ""
-
-#: craftportfolio.php:2954
-msgid "Target Date and Time"
-msgstr ""
-
-#: craftportfolio.php:2954
-msgid "YY-mm-dd HH:mm:ss, e.g. 2015-02-22 22:45:00"
-msgstr ""
-
-#: craftportfolio.php:2960
-msgid "Hide Indication"
-msgstr ""
-
-#: craftportfolio.php:2960
-msgid "Hide indication of days, hours, minutes and seconds"
-msgstr ""
-
-#: craftportfolio.php:2970
-msgid "Percentage bar"
-msgstr ""
-
-#: craftportfolio.php:2970
-msgid "Animated percentage bar"
-msgstr ""
-
-#: craftportfolio.php:2973
-msgid "Percentage"
-msgstr ""
-
-#: craftportfolio.php:2978
-msgid "Line"
-msgstr ""
-
-#: craftportfolio.php:2985
-msgid "Slider container"
-msgstr ""
-
-#: craftportfolio.php:2987
-msgid "Slider height"
-msgstr ""
-
-#: craftportfolio.php:2989
-msgid "Auto"
-msgstr ""
-
-#: craftportfolio.php:2994
-msgid "Auto Play Speed (e.g. 3000)"
-msgstr ""
-
-#: craftportfolio.php:2995
-msgid "Hide Arrows"
-msgstr ""
-
-#: craftportfolio.php:3000
-msgid "Hide Paging"
-msgstr ""
-
-#: craftportfolio.php:3005
-msgid "Simple Arrows"
-msgstr ""
-
-#: craftportfolio.php:3015
-msgid "Slider Item"
-msgstr ""
-
-#: craftportfolio.php:3015
-msgid "Individual slide element"
-msgstr ""
-
-#: craftportfolio.php:3023
-msgid "Separator"
-msgstr ""
-
-#: craftportfolio.php:3023
-msgid "Horizontal separator"
-msgstr ""
-
-#: craftportfolio.php:3053
-msgid "Single icon with link"
-msgstr ""
-
-#: craftportfolio.php:3056 craftportfolio.php:3230
-msgid "Title"
-msgstr ""
-
-#: craftportfolio.php:3090
-msgid "Icon and images holder"
-msgstr ""
-
-#: craftportfolio.php:3090
-msgid "Icon container"
-msgstr ""
-
-#: craftportfolio.php:3097
-msgid "Latest Posts"
-msgstr ""
-
-#: craftportfolio.php:3097
-msgid "Recent posts"
-msgstr ""
-
-#: craftportfolio.php:3099
-msgid "Number of Items"
-msgstr ""
-
-#: craftportfolio.php:3100 craftportfolio.php:3141
-msgid "Category Slug"
-msgstr ""
-
-#: craftportfolio.php:3101
-msgid "Format"
-msgstr ""
-
-#: craftportfolio.php:3103
-msgid "Horizontal"
-msgstr ""
-
-#: craftportfolio.php:3104
-msgid "Vertical"
-msgstr ""
-
-#: craftportfolio.php:3106 craftportfolio.php:3174
-msgid "Post Type"
-msgstr ""
-
-#: craftportfolio.php:3108 craftportfolio.php:3176
-msgid "Blog"
-msgstr ""
-
-#: craftportfolio.php:3109 craftportfolio.php:3177 craftportfolio.php:4245
-msgid "Portfolio"
-msgstr ""
-
-#: craftportfolio.php:3111
-msgid "Show Excerpt"
-msgstr ""
-
-#: craftportfolio.php:3116
-msgid "Show Date"
-msgstr ""
-
-#: craftportfolio.php:3121
-msgid "Show Author"
-msgstr ""
-
-#: craftportfolio.php:3131
-msgid "Grid"
-msgstr ""
-
-#: craftportfolio.php:3131
-msgid "Grid with recent posts"
-msgstr ""
-
-#: craftportfolio.php:3133
-msgid "Number of items"
-msgstr ""
-
-#: craftportfolio.php:3134 craftportfolio.php:3215
-msgid "Columns"
-msgstr ""
-
-#: craftportfolio.php:3136 craftportfolio.php:3157 craftportfolio.php:3204 craftportfolio.php:3217
-msgid "3"
-msgstr ""
-
-#: craftportfolio.php:3137 craftportfolio.php:3158 craftportfolio.php:3205 craftportfolio.php:3218
-msgid "4"
-msgstr ""
-
-#: craftportfolio.php:3138 craftportfolio.php:3159 craftportfolio.php:3206 craftportfolio.php:3219
-msgid "5"
-msgstr ""
-
-#: craftportfolio.php:3139 craftportfolio.php:3160 craftportfolio.php:3207 craftportfolio.php:3220
-msgid "6"
-msgstr ""
-
-#: craftportfolio.php:3142
-msgid "Category Filter"
-msgstr ""
-
-#: craftportfolio.php:3147
-msgid "Grid Type"
-msgstr ""
-
-#: craftportfolio.php:3149
-msgid "Classic"
-msgstr ""
-
-#: craftportfolio.php:3150
-msgid "Tiled"
-msgstr ""
-
-#: craftportfolio.php:3152 craftportfolio.php:3199
-msgid "Grid Gap"
-msgstr ""
-
-#: craftportfolio.php:3154 craftportfolio.php:3201
-msgid "0"
-msgstr ""
-
-#: craftportfolio.php:3155 craftportfolio.php:3202
-msgid "1"
-msgstr ""
-
-#: craftportfolio.php:3156 craftportfolio.php:3203
-msgid "2"
-msgstr ""
-
-#: craftportfolio.php:3161 craftportfolio.php:3208
-msgid "7"
-msgstr ""
-
-#: craftportfolio.php:3162 craftportfolio.php:3209
-msgid "8"
-msgstr ""
-
-#: craftportfolio.php:3163 craftportfolio.php:3210
-msgid "9"
-msgstr ""
-
-#: craftportfolio.php:3164 craftportfolio.php:3211
-msgid "10"
-msgstr ""
-
-#: craftportfolio.php:3165 craftportfolio.php:3212
-msgid "15"
-msgstr ""
-
-#: craftportfolio.php:3166 craftportfolio.php:3213
-msgid "20"
-msgstr ""
-
-#: craftportfolio.php:3168
-msgid "Tiled Format"
-msgstr ""
-
-#: craftportfolio.php:3169
-msgid "Show Title in Tiles"
-msgstr ""
-
-#: craftportfolio.php:3179
-msgid "Scroll Loading"
-msgstr ""
-
-#: craftportfolio.php:3184
-msgid "Show Sticky Posts"
-msgstr ""
-
-#: craftportfolio.php:3194
-msgid "Grid Gallery"
-msgstr ""
-
-#: craftportfolio.php:3194
-msgid "Responsive grid gallery with lightbox."
-msgstr ""
-
-#: craftportfolio.php:3196
-msgid "Images"
-msgstr ""
-
-#: craftportfolio.php:3197
-msgid "Format (e.g. 21,11,12)"
-msgstr ""
-
-#: craftportfolio.php:3222
-msgid "Links (separated by new line)"
-msgstr ""
-
-#: craftportfolio.php:3228
-msgid "Price List"
-msgstr ""
-
-#: craftportfolio.php:3228
-msgid "Price List element"
-msgstr ""
-
-#: craftportfolio.php:3231
-msgid "Subtitle"
-msgstr ""
-
-#: craftportfolio.php:3232
-msgid "Sticker Text"
-msgstr ""
-
-#: craftportfolio.php:3233
-msgid "Currency"
-msgstr ""
-
-#: craftportfolio.php:3234
-msgid "Price"
-msgstr ""
-
-#: craftportfolio.php:3235
-msgid "Items"
-msgstr ""
-
-#: craftportfolio.php:3257
-msgid "BT Gallery"
-msgstr ""
-
-#: craftportfolio.php:3258
-msgid "Gallery widget."
-msgstr ""
-
-#: craftportfolio.php:3277
-msgid "Gallery"
-msgstr ""
-
-#: craftportfolio.php:3281 craftportfolio.php:3336 craftportfolio.php:3450 craftportfolio.php:3830
-#: craftportfolio.php:3899 craftportfolio.php:3980 craftportfolio.php:4161
+#: inc/config-meta-boxes.php:434 widgets/widgets.php:77 widgets/widgets.php:185
 msgid "Title:"
 msgstr ""
 
-#: craftportfolio.php:3285
-msgid "List of image IDs (comma-separated):"
+#: inc/config-meta-boxes.php:435
+msgid "Headline:"
 msgstr ""
 
-#: craftportfolio.php:3310
-msgid "BT Text Image"
+#: inc/config-meta-boxes.php:436
+msgid "Description:"
 msgstr ""
 
-#: craftportfolio.php:3311
-msgid "Text with image."
+#: inc/tour-meta-boxes.php:12
+msgid "Author Review Summary"
 msgstr ""
 
-#: craftportfolio.php:3340
-msgid "Image IDs:"
+#: inc/tour-meta-boxes.php:20
+msgid "Author Reviews"
 msgstr ""
 
-#: craftportfolio.php:3344 craftportfolio.php:3454
-msgid "Text:"
+#: inc/tour-meta-boxes.php:28
+msgid "User Reviews"
 msgstr ""
 
-#: craftportfolio.php:3370
-msgid "BT Icon"
+#: inc/tour-meta-boxes.php:39
+msgid "Tour Reviews"
 msgstr ""
 
-#: craftportfolio.php:3371
-msgid "Icon with text and link."
+#: inc/tour-meta-boxes.php:49 amp/amp.php:202 inc/tour_html/single/tour.php:180
+msgid "Departure Location"
 msgstr ""
 
-#: craftportfolio.php:3435
-msgid "Icon:"
+#: inc/tour-meta-boxes.php:57 amp/amp.php:211 inc/tour_html/single/tour.php:189
+msgid "Return Location"
 msgstr ""
 
-#: craftportfolio.php:3458
-msgid "URL or slug:"
+#: inc/tour-meta-boxes.php:65
+msgid "Promo Super Title"
 msgstr ""
 
-#: craftportfolio.php:3463
-msgid "Show in accent color"
+#: inc/tour-meta-boxes.php:73
+msgid "Promo Title"
 msgstr ""
 
-#: craftportfolio.php:3466
-msgid "Target:"
+#: inc/tour-meta-boxes.php:81
+msgid "Promo Subtitle"
 msgstr ""
 
-#: craftportfolio.php:3507
-msgid "BT Weather"
+#: inc/tour-meta-boxes.php:89
+msgid "Current Price"
 msgstr ""
 
-#: craftportfolio.php:3508
-msgid "Weather widget."
+#: inc/tour-meta-boxes.php:96
+msgid "Old Price"
 msgstr ""
 
-#: craftportfolio.php:3537
-msgid "Latitude:"
+#: inc/tour-meta-boxes.php:103
+msgid "Discount Title"
 msgstr ""
 
-#: craftportfolio.php:3541
-msgid "Longitude:"
+#: inc/tour-meta-boxes.php:110 amp/amp.php:72 inc/tour_html/single/tour.php:44
+msgid "Travellers"
 msgstr ""
 
-#: craftportfolio.php:3545
-msgid "Temperature unit:"
+#: inc/tour-meta-boxes.php:117 amp/amp.php:52 inc/tour_html/single/tour.php:24
+msgid "Duration"
 msgstr ""
 
-#: craftportfolio.php:3548
-msgid "Celsius"
+#: inc/tour-meta-boxes.php:127
+msgid "Tour Settings"
 msgstr ""
 
-#: craftportfolio.php:3548
-msgid "Fahrenheit"
+#: inc/tour-meta-boxes.php:149
+msgid "Tour Media"
 msgstr ""
 
-#: craftportfolio.php:3560
-msgid "Type:"
+#: inc/tour-meta-boxes.php:156
+msgid "Gallery Images"
 msgstr ""
 
-#: craftportfolio.php:3563 craftportfolio.php:3609
-msgid "Now"
+#: inc/tour-meta-boxes.php:157
+msgid ""
+"media-images\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:3563 craftportfolio.php:3613
-msgid "Today"
+#: inc/tour-meta-boxes.php:166
+msgid "Featured Images"
 msgstr ""
 
-#: craftportfolio.php:3563 craftportfolio.php:3617
-msgid "Tomorrow"
+#: inc/tour-meta-boxes.php:167 inc/tour-meta-boxes.php:176
+msgid ""
+"media-featured\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:3639
-msgid "BT Time"
+#: inc/tour-meta-boxes.php:175
+msgid "Featured Videos"
 msgstr ""
 
-#: craftportfolio.php:3640
-msgid "Time widget."
+#: inc/tour-meta-boxes.php:181
+msgid "Enter Video URL"
 msgstr ""
 
-#: craftportfolio.php:3668
-msgid "Time zone:"
+#: inc/tour-meta-boxes.php:190
+msgid "Tour Start Dates & Times"
 msgstr ""
 
-#: craftportfolio.php:3687
-msgid "Place name:"
+#: inc/tour-meta-boxes.php:197
+msgid "Start Dates & Times"
 msgstr ""
 
-#: craftportfolio.php:3691
-msgid "Time notation:"
+#: inc/tour-meta-boxes.php:198
+msgid ""
+"tour-dates\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:3697
-msgid "24 hours"
+#: inc/tour-meta-boxes.php:216
+msgid "Tour Information"
 msgstr ""
 
-#: craftportfolio.php:3697
-msgid "12 hours"
+#: inc/tour-meta-boxes.php:222
+msgid "Price include"
 msgstr ""
 
-#: craftportfolio.php:3766
-msgid "BT Recent Posts"
+#: inc/tour-meta-boxes.php:223 inc/tour-meta-boxes.php:232
+msgid ""
+"tour-information\" target=\"_blank\" ><span class=\"dashicons dashicons-"
+"editor-help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:3767
-msgid "Recent posts with thumbnails."
+#: inc/tour-meta-boxes.php:231
+msgid "Price don't include"
 msgstr ""
 
-#: craftportfolio.php:3826
-msgid "Recent Posts"
+#: inc/tour-meta-boxes.php:240
+msgid "Location Description/More About Tour"
 msgstr ""
 
-#: craftportfolio.php:3834
-msgid "Number of posts:"
+#: inc/tour-meta-boxes.php:241
+msgid ""
+"location-description\" target=\"_blank\" ><span class=\"dashicons dashicons-"
+"editor-help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:3860
-msgid "BT Recent Comments"
+#: inc/tour-meta-boxes.php:256
+msgid "Tour Plan"
 msgstr ""
 
-#: craftportfolio.php:3861
-msgid "Recent comments with avatars."
+#: inc/tour-meta-boxes.php:264
+msgid "Tour Plan Contents"
 msgstr ""
 
-#: craftportfolio.php:3895
-msgid "Recent Comments"
+#: inc/tour-meta-boxes.php:265
+msgid ""
+"tour-plan\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:3903
-msgid "Number of comments:"
+#: inc/tour-meta-boxes.php:277
+msgid "Tour Additional"
 msgstr ""
 
-#: craftportfolio.php:3930
-msgid "BT Instagram"
+#: inc/tour-meta-boxes.php:284 amp/amp.php:297
+#: inc/tour_html/single/tour.php:275
+msgid "Additional Prices"
 msgstr ""
 
-#: craftportfolio.php:3931
-msgid "Instagram photos."
+#: inc/tour-meta-boxes.php:285 inc/tour-meta-boxes.php:296
+#: inc/tour-meta-boxes.php:307
+msgid ""
+"tour-additional\" target=\"_blank\" ><span class=\"dashicons dashicons-"
+"editor-help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:3973
-msgid "Instagram"
+#: inc/tour-meta-boxes.php:289 inc/tour-meta-boxes.php:300
+#: inc/tour-meta-boxes.php:311
+msgid "Title"
 msgstr ""
 
-#: craftportfolio.php:3984
-msgid "Number of photos:"
+#: inc/tour-meta-boxes.php:290 amp/amp.php:43 inc/tour_html/single/tour.php:15
+msgid "Price"
 msgstr ""
 
-#: craftportfolio.php:3988
-msgid "User ID:"
+#: inc/tour-meta-boxes.php:295
+msgid "Additional Info"
 msgstr ""
 
-#: craftportfolio.php:3992
-msgid "Client ID:"
+#: inc/tour-meta-boxes.php:301 inc/tour-meta-boxes.php:312
+msgid "Description"
 msgstr ""
 
-#: craftportfolio.php:3996 craftportfolio.php:4185
-msgid "Access token:"
+#: inc/tour-meta-boxes.php:306 amp/amp.php:277
+#: inc/tour_html/single/tour.php:255
+msgid "Complementaries"
 msgstr ""
 
-#: craftportfolio.php:4103
-msgid "BT Twitter"
+#: inc/tour-meta-boxes.php:321
+msgid "Tour Google Map Routes"
 msgstr ""
 
-#: craftportfolio.php:4104
-msgid "Twitter feed."
+#: inc/tour-meta-boxes.php:328
+msgid "Google Map Embed"
 msgstr ""
 
-#: craftportfolio.php:4165
-msgid "Number of tweets:"
+#: inc/tour-meta-boxes.php:329 inc/tour-meta-boxes.php:338
+msgid ""
+"tour-map\" target=\"_blank\" ><span class=\"dashicons dashicons-editor-"
+"help\"></span> Learn more</a>"
 msgstr ""
 
-#: craftportfolio.php:4169
-msgid "Username:"
+#: inc/tour-meta-boxes.php:331
+msgid "Enter IFRAME src"
 msgstr ""
 
-#: craftportfolio.php:4173
-msgid "Cache (minutes):"
+#: inc/tour-meta-boxes.php:337
+msgid "Google Map KMZ or KML File"
 msgstr ""
 
-#: craftportfolio.php:4177
-msgid "Consumer key:"
+#: inc/tour-meta-boxes.php:391
+msgid "Tour Destination More About"
 msgstr ""
 
-#: craftportfolio.php:4181
-msgid "Consumer secret:"
+#: inc/tour-meta-boxes.php:394
+msgid ""
+"Enter more description for this Tour Destination, to promote it on the "
+"Single Tour. It will be shown below the map on the Single Tour, on Location "
+"tab."
 msgstr ""
 
-#: craftportfolio.php:4189
-msgid "Access token secret:"
+#: inc/tour-meta-boxes.php:398 inc/tour-meta-boxes.php:420
+#: inc/tour-meta-boxes.php:441 inc/tour-meta-boxes.php:499
+#: inc/tour-meta-boxes.php:575
+msgid "For more help with this setting, please"
 msgstr ""
 
-#: craftportfolio.php:4246
-msgid "Portfolio Item"
+#: inc/tour-meta-boxes.php:398 inc/tour-meta-boxes.php:420
+#: inc/tour-meta-boxes.php:441 inc/tour-meta-boxes.php:499
+#: inc/tour-meta-boxes.php:575 widgets/widgets.php:122 widgets/widgets.php:229
+msgid "click here"
 msgstr ""
 
-#: craftportfolio.php:4255
-msgid "Portfolio Categories"
+#: inc/tour-meta-boxes.php:413 inc/tour-meta-boxes.php:434
+msgid "Tour Destination Page Slug"
 msgstr ""
 
-#: section_anims.php:7
-msgid "Move to left | from right"
+#: inc/tour-meta-boxes.php:416 inc/tour-meta-boxes.php:437
+msgid ""
+"Enter a valid Page Slug for This Tour Destination. It will be used to link "
+"to a Destination page from Single Tour page. If not added, the link will not "
+"be shown."
 msgstr ""
 
-#: section_anims.php:8
-msgid "Move to right | from left"
+#: inc/tour-meta-boxes.php:481 inc/tour-meta-boxes.php:555
+msgid "Tour Destination Location"
 msgstr ""
 
-#: section_anims.php:9
-msgid "Move to top | from bottom"
+#: inc/tour-meta-boxes.php:488 inc/tour-meta-boxes.php:564
+msgid ""
+"Get both values, latitude and longitude from Google Maps. When you search "
+"for a location, right click on once you found it it and select 'What's here' "
+"and then you'll get the valued in the bottom of the Google Maps screen."
 msgstr ""
 
-#: section_anims.php:10
-msgid "Move to bottom | from top"
+#: inc/tour-meta-boxes.php:495 inc/tour-meta-boxes.php:571
+msgid ""
+"Select this Tour Destination on Map. Drag the Pin across the map or search "
+"for the location on the map with a search field."
 msgstr ""
 
-#: section_anims.php:11
-msgid "Fade | from right"
+#: widgets/bt_searchtours_widget.php:35
+msgid "Tour Keywords"
 msgstr ""
 
-#: section_anims.php:12
-msgid "Fade | from left"
+#: widgets/bt_searchtours_widget.php:42
+msgid "Select your Destination"
 msgstr ""
 
-#: section_anims.php:13
-msgid "Fade | from bottom"
+#: widgets/bt_searchtours_widget.php:51
+msgid "Departure Date"
 msgstr ""
 
-#: section_anims.php:14
-msgid "Fade | from top"
+#: widgets/bt_searchtours_widget.php:60
+msgid "Price From"
 msgstr ""
 
-#: section_anims.php:15
-msgid "Fade left | Fade right"
+#: widgets/bt_searchtours_widget.php:64
+msgid "Price To"
 msgstr ""
 
-#: section_anims.php:16
-msgid "Fade right | Fade left"
+#: widgets/bt_searchtours_widget.php:75
+msgid "Categories"
 msgstr ""
 
-#: section_anims.php:17
-msgid "Fade top | Fade bottom"
+#: widgets/bt_searchtours_widget.php:92 widgets/widgets.php:20
+msgid "More categories"
 msgstr ""
 
-#: section_anims.php:18
-msgid "Fade bottom | Fade top"
+#: widgets/widgets.php:18
+msgid "Current month"
 msgstr ""
 
-#: section_anims.php:19
-msgid "Different easing | from right"
+#: widgets/widgets.php:19
+msgid "Clear"
 msgstr ""
 
-#: section_anims.php:20
-msgid "Different easing | from left"
+#: widgets/widgets.php:21
+msgid "Less categories"
 msgstr ""
 
-#: section_anims.php:21
-msgid "Different easing | from bottom"
+#. Base ID
+#: widgets/widgets.php:44
+msgid "BT Search Tours"
 msgstr ""
 
-#: section_anims.php:22
-msgid "Different easing | from top"
+#: widgets/widgets.php:46
+msgid "Displays a search form and define it's fields and parameters."
 msgstr ""
 
-#: section_anims.php:23
-msgid "Scale down | from right"
+#: widgets/widgets.php:81
+msgid "Label for Keyword:"
 msgstr ""
 
-#: section_anims.php:24
-msgid "Scale down | from left"
+#: widgets/widgets.php:85
+msgid "Label for Destination:"
 msgstr ""
 
-#: section_anims.php:25
-msgid "Scale down | from bottom"
+#: widgets/widgets.php:89
+msgid "Label for Departure Date:"
 msgstr ""
 
-#: section_anims.php:26
-msgid "Scale down | from top"
+#: widgets/widgets.php:93
+msgid "Label for Price From:"
 msgstr ""
 
-#: section_anims.php:27
-msgid "Scale down | scale down"
+#: widgets/widgets.php:97
+msgid "Label for Price To:"
 msgstr ""
 
-#: section_anims.php:28
-msgid "Scale up | scale up"
+#: widgets/widgets.php:101
+msgid "Label for Search Button:"
 msgstr ""
 
-#: section_anims.php:29
-msgid "Move to left | scale up"
+#: widgets/widgets.php:106
+msgid "Show Keyword Filter"
 msgstr ""
 
-#: section_anims.php:30
-msgid "Move to right | scale up"
+#: widgets/widgets.php:110
+msgid "Show Departure Date Filter"
 msgstr ""
 
-#: section_anims.php:31
-msgid "Move to top | scale up"
+#: widgets/widgets.php:114
+msgid "Show Prices Filter"
 msgstr ""
 
-#: section_anims.php:32
-msgid "Move to bottom | scale up"
+#: widgets/widgets.php:118
+msgid "Show Categories Filter"
 msgstr ""
 
-#: section_anims.php:33
-msgid "Scale down | scale up"
+#: widgets/widgets.php:122 widgets/widgets.php:229
+msgid "For more help with this widget, please"
 msgstr ""
 
-#: section_anims.php:34
-msgid "Glue left | from right"
+#. Base ID
+#: widgets/widgets.php:155
+msgid "BT Tours"
 msgstr ""
 
-#: section_anims.php:35
-msgid "Glue right | from left"
+#: widgets/widgets.php:157
+msgid ""
+"Show a number of Tours in a sidebar or widget area filtered by Destination, "
+"define it's design and sorting options."
 msgstr ""
 
-#: section_anims.php:36
-msgid "Glue bottom | from top"
+#: widgets/widgets.php:197
+msgid "Single Tour Design:"
 msgstr ""
 
-#: section_anims.php:37
-msgid "Glue top | from bottom"
+#: widgets/widgets.php:201
+msgid "List"
 msgstr ""
 
-#: section_anims.php:38
-msgid "Flip right"
+#: widgets/widgets.php:202
+msgid "Regular"
 msgstr ""
 
-#: section_anims.php:39
-msgid "Flip left"
+#: widgets/widgets.php:203
+msgid "Gallery"
 msgstr ""
 
-#: section_anims.php:40
-msgid "Flip top"
+#: widgets/widgets.php:204
+msgid "Tiles"
 msgstr ""
 
-#: section_anims.php:41
-msgid "Flip bottom"
+#: widgets/widgets.php:217
+msgid "Order By:"
 msgstr ""
 
-#: section_anims.php:42
-msgid "Push left | from right"
+#: widgets/widgets.php:219
+msgid "Sort by date ascending"
 msgstr ""
 
-#: section_anims.php:43
-msgid "Push right | from left"
+#: widgets/widgets.php:220
+msgid "Sort by date descending"
 msgstr ""
 
-#: section_anims.php:44
-msgid "Push top | from bottom"
+#: widgets/widgets.php:221
+msgid "Sort by name - A to Z"
 msgstr ""
 
-#: section_anims.php:45
-msgid "Push bottom | from top"
+#: widgets/widgets.php:222
+msgid "Sort by name - Z to A"
 msgstr ""
 
-#: section_anims.php:46
-msgid "Push left | pull right"
+#: widgets/widgets.php:223
+msgid "Sort by price - low to high"
 msgstr ""
 
-#: section_anims.php:47
-msgid "Push right | pull left"
+#: widgets/widgets.php:224
+msgid "Sort by price - high to low"
 msgstr ""
 
-#: section_anims.php:48
-msgid "Push top | pull bottom"
+#: amp/amp.php:44 inc/tour_html/single/tour.php:16
+msgid "per"
 msgstr ""
 
-#: section_anims.php:49
-msgid "Push bottom | pull top"
+#: amp/amp.php:44 inc/tour_html/single/tour.php:16
+msgid "person"
 msgstr ""
 
-#: section_anims.php:50
-msgid "Fold left | from right"
+#: amp/amp.php:61 amp/amp.php:158 inc/tour_html/single/tour.php:33
+#: inc/tour_html/single/tour.php:136
+msgid "Destination"
 msgstr ""
 
-#: section_anims.php:51
-msgid "Fold right | from left"
+#: amp/amp.php:84 inc/tour_html/list/tour.php:210
+#: inc/tour_html/list/tour.php:279 inc/tour_html/single/tour.php:56
+msgid "Reviews"
 msgstr ""
 
-#: section_anims.php:52
-msgid "Fold top | from bottom"
+#: amp/amp.php:86 inc/tour_html/list/tour.php:207
+#: inc/tour_html/list/tour.php:276 inc/tour_html/single/tour.php:58
+#: inc/tour_html/single/comment.php:38
+#, php-format
+msgid "Rated %d out of 5"
 msgstr ""
 
-#: section_anims.php:53
-msgid "Fold bottom | from top"
+#: amp/amp.php:87 inc/tour_html/list/tour.php:208
+#: inc/tour_html/list/tour.php:277 inc/tour_html/single/tour.php:59
+#: inc/tour_html/single/comment.php:40
+msgid "out of 5"
 msgstr ""
 
-#: section_anims.php:54
-msgid "Move to right | unfold left"
+#: amp/amp.php:154 inc/tour_html/single/tour.php:132
+msgid "What's included"
 msgstr ""
 
-#: section_anims.php:55
-msgid "Move to left | unfold right"
+#: amp/amp.php:174 inc/tour_html/single/tour.php:152
+msgid "Discover Destinations"
 msgstr ""
 
-#: section_anims.php:56
-msgid "Move to bottom | unfold top"
+#: amp/amp.php:193 inc/tour_html/single/tour.php:171
+msgid "Tour Start Location"
 msgstr ""
 
-#: section_anims.php:57
-msgid "Move to top | unfold bottom"
+#: amp/amp.php:219 inc/tour_html/single/tour.php:197
+msgid "Tour Start Date &amp; Time"
 msgstr ""
 
-#: section_anims.php:58
-msgid "Room to left"
+#: amp/amp.php:223 inc/tour_html/single/tour.php:201
+msgid "View other Times"
 msgstr ""
 
-#: section_anims.php:59
-msgid "Room to right"
+#: amp/amp.php:240 inc/tour_html/single/tour.php:218
+msgid "Additional Information"
 msgstr ""
 
-#: section_anims.php:60
-msgid "Room to top"
+#: amp/amp.php:251 inc/tour_html/single/tour.php:229
+msgid "Price includes"
 msgstr ""
 
-#: section_anims.php:61
-msgid "Room to bottom"
+#: amp/amp.php:264 inc/tour_html/single/tour.php:242
+msgid "Price does not include"
 msgstr ""
 
-#: section_anims.php:62
-msgid "Cube to left"
+#: amp/templates/footer.php:4
+msgid "Back to top"
 msgstr ""
 
-#: section_anims.php:63
-msgid "Cube to right"
+#: amp/templates/meta-comments-link.php:5
+msgid "Book Now"
 msgstr ""
 
-#: section_anims.php:64
-msgid "Cube to top"
+#: inc/tour_html/list/tour.php:31 inc/tour_html/list/tour.php:54
+msgid "Sorry! There are no tours matching your search."
 msgstr ""
 
-#: section_anims.php:65
-msgid "Cube to bottom"
+#: inc/tour_html/list/tour.php:32 inc/tour_html/list/tour.php:55
+msgid "Try changing your search filters."
 msgstr ""
 
-#: section_anims.php:66
-msgid "Carousel to left"
+#: inc/tour_html/list/tour.php:271
+msgid "View Details"
 msgstr ""
 
-#: section_anims.php:67
-msgid "Carousel to right"
+#: inc/tour_html/list/tour.php:344
+msgid "Load more tours"
 msgstr ""
 
-#: section_anims.php:68
-msgid "Carousel to top"
+#: inc/tour_html/list/tour.php:356
+msgid "Previous"
 msgstr ""
 
-#: section_anims.php:69
-msgid "Carousel to bottom"
+#: inc/tour_html/list/tour.php:357
+msgid "Next"
 msgstr ""
 
-#: section_anims.php:70
-msgid "Sides"
+#: inc/tour_html/single/tour.php:67
+msgid "Book this Tour"
 msgstr ""
 
-#: section_anims.php:71
-msgid "Slide"
+#: inc/tour_html/single/tour.php:160
+#, php-format
+msgid "Discover %1$s"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:379
+msgid "More about"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:381
+msgid "Discover"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:467
+msgid "More about this tour"
+msgstr ""
+
+#: inc/tour_html/single/tour.php:566 inc/tour_html/single/tour.php:576
+msgid "Sorry! There are no similiar tours."
+msgstr ""
+
+#: inc/tour_html/single/comment.php:15
+msgid "Pingback:"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:15
+msgid "(Edit)"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/tour_html/single/comment.php:80
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:82
+msgid "Reply"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:84
+msgid "Edit"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:115 inc/tour_html/single/comment.php:150
+msgid "Review Rating *"
+msgstr ""
+
+#: inc/tour_html/single/comment.php:214
+msgid ""
+"Error: You did not add a rating. Hit the Back button on your Web browser and "
+"resubmit your comment with a rating."
+msgstr ""
+
+#: inc/tour_html/single/comment.php:262
+msgid "Extended Comment"
+msgstr ""
+
+#: inc/tour_html/widget/tour.php:126 inc/tour_html/widget/tour.php:183
+#: inc/tour_html/widget/tour.php:239
+msgid "From"
+msgstr ""
+
+#. Name of the plugin
+msgid "Travelicious Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Shortcodes and widgets by BoldThemes."
+msgstr ""
+
+#. Author of the plugin
+msgid "BoldThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://bold-themes.com"
 msgstr ""
