@@ -237,18 +237,6 @@ function bt_register_meta_boxes( $meta_boxes ) {
                     'select_all_none'   => true,
             ),
             array(
-                'name' => __('Fechas de salida', 'bt_plugin'),
-                'label_description' => __('Ingresa las fechas de Salida del tour'),
-                'id' =>    'tour_fechas_de_salida',
-                'type' => 'wysiwyg',
-                'raw'     => false,
-                'options' => array(
-                    'textarea_rows' => 15,
-                    'teeny'         => false,
-                ),
-            
-            ),
-            array(
                     'name'    => __('Location Description/More About Tour', 'bt_plugin'),
 					'label_description' => __('This is the content that appears in Additional Info tab o na Single Tour. You can leave it out if it\'s not required.<br><a href="' . $documentationurl . 'location-description" target="_blank" ><span class="dashicons dashicons-editor-help"></span> Learn more</a>', 'bt_plugin'),
                     'id'      => 'tour_location_description',
@@ -256,7 +244,7 @@ function bt_register_meta_boxes( $meta_boxes ) {
                     'raw'     => false,
                     'options' => array(
                         'textarea_rows' => 15,
-                        'teeny'         => false,
+                        'teeny'         => true,
                     ),
             ),
 
@@ -294,7 +282,7 @@ function bt_register_meta_boxes( $meta_boxes ) {
             array(
                     'id'      => 'tour_additional_prices',
                     'name'    => __('Additional Prices', 'bt_plugin'),
-					'label_description' => __('Usa está función para generar una tabla de precios sencilla', 'bt_plugin'),
+					'label_description' => __('Set additional tour prices that your Tour might have. They will appear at the end of the Tour basic information.<br><a href="' . $documentationurl . 'tour-additional" target="_blank" ><span class="dashicons dashicons-editor-help"></span> Learn more</a>', 'bt_plugin'),
                     'type'    => 'fieldset_text',
                     'clone' => true,
                     'options' => array(
@@ -302,18 +290,6 @@ function bt_register_meta_boxes( $meta_boxes ) {
                             'price' =>  __('Price', 'bt_plugin')
                     ),
             ),
-            array(
-                'id'      => 'tour_precios',
-                'name'    => __('Precios', 'bt_plugin'),
-                'label_description' => __('Usa este campo para usar una tabla de precios personalizada', 'bt_plugin'),
-                'type'    => 'wysiwyg',
-                'raw'     => false,
-                'options' => array(
-                    'textarea_rows' => 15,
-                    'teeny'         => false,
-                ),
-                
-        ),
             array(
                     'id'      => 'tour_additional_info',
                     'name'    => __('Additional Info', 'bt_plugin'),
@@ -326,30 +302,6 @@ function bt_register_meta_boxes( $meta_boxes ) {
                     ),
             ),
             array(
-                'id'      => 'tour_suplementos',
-                'name'    => __('Suplementos', 'bt_plugin'),
-                'label_description' => __('Suplementos', 'bt_plugin'),
-                'type'    => 'wysiwyg',
-                'raw'     => false,
-                'options' => array(
-                    'textarea_rows' => 15,
-                    'teeny'         => false,
-                ),
-                
-        ),
-            array(
-                'id'      => 'tour_viva_plus',
-                'name'    => __('Viva Plus', 'bt_plugin'),
-                'label_description' => __('Vivaplus', 'bt_plugin'),
-                'type'    => 'wysiwyg',
-                'raw'     => false,
-                'options' => array(
-                    'textarea_rows' => 15,
-                    'teeny'         => false,
-                ),
-                
-        ),
-            array(
                     'id'      => 'tour_additional_custom',
                     'name'    => __('Complementaries', 'bt_plugin'),
  					'label_description' => __('Set Complementaries about the Tour. They will appear below what the Price doesn\'t include.<br><a href="' . $documentationurl . 'tour-additional" target="_blank" ><span class="dashicons dashicons-editor-help"></span> Learn more</a>', 'bt_plugin'),
@@ -361,48 +313,6 @@ function bt_register_meta_boxes( $meta_boxes ) {
                     ),
                     
             ),
-        )
-    );
-
-    $meta_boxes[] = array(
-        'id'        => 'tour_word',
-        'title'     => __('Tour en Formato Word', 'bt_plugin'),
-        'post_types' => 'tour',
-        'context'    => 'normal',
-        'priority'   => 'high',
-        'fields' => array(
-            array(
-                    'id'      => 'tour_file_word',
-                    'name'    => __('Archivo de Word', 'bt_plugin'),
- 					'label_description' => __('Selecciona el archivo del tour original'),
-                     'type' => 'file_upload',
-                     'max_file_uploads' => 1,
-                     'force_delete'     => false,                     
-            )
-        )
-    );
-    
-
-    $meta_boxes[] = array(
-        'id'        => 'tour_type_form',
-        'title'     => __('Tipo de formulario', 'bt_plugin'),
-        'post_types' => 'tour',
-        'context'    => 'normal',
-        'priority'   => 'high',
-        'fields' => array(
-            array(
-                    'id'      => 'tour_tipoform',
-                    'name'    => __('Tipo de formulario', 'bt_plugin'),
- 					'label_description' => __('Selecciona el tipo de formulario a mostrar en este tour'),
-                     'type' => 'radio',
-                     'placeholder' => '',
-                     'options' => array(
-                         'reservacion' => esc_html__( 'Reservación', 'bt_plugin' ),
-                         'contacto' => esc_html__( 'Contacto', 'bt_plugin' ),
-                     ),
-                     'inline' => 'true'                           
-                    
-            )
         )
     );
     

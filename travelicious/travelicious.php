@@ -286,7 +286,6 @@ if ( ! function_exists( 'bt_get_tour_single_data' ) ) {
             BoldThemesFrameworkTemplate::$tour_rwmb_price_include           = rwmb_meta('tour_price_include', null, $post_id ) != '' ? rwmb_meta('tour_price_include', null, $post_id ) : '' ;
             BoldThemesFrameworkTemplate::$tour_rwmb_price_no_include        = rwmb_meta('tour_price_no_include', null, $post_id ) != '' ? rwmb_meta('tour_price_no_include', null, $post_id ) : '' ;
             BoldThemesFrameworkTemplate::$tour_rwmb_location_description    = rwmb_meta('tour_location_description', null, $post_id ) != '' ? rwmb_meta('tour_location_description', null, $post_id ) : '' ;
-            BoldThemesFrameworkTemplate::$tour_rwmb_fechas_de_salida        = rwmb_meta('tour_fechas_de_salida', null, $post_id ) != '' ? rwmb_meta('tour_fechas_de_salida', null, $post_id ) : '' ;
             
             //tour plan
             BoldThemesFrameworkTemplate::$tour_rwmb_plan                    = rwmb_meta('tour_plan', null, $post_id ) != '' ? rwmb_meta('tour_plan', null, $post_id ) : '' ;            
@@ -297,9 +296,6 @@ if ( ! function_exists( 'bt_get_tour_single_data' ) ) {
             //tour additional info
             BoldThemesFrameworkTemplate::$tour_rwmb_additional_prices       = bt_check_get_tour_rwmb_data( 'tour_additional_prices', $post_id );
             BoldThemesFrameworkTemplate::$tour_rwmb_additional_info         = bt_check_get_tour_rwmb_data( 'tour_additional_info', $post_id );
-            BoldThemesFrameworkTemplate::$tour_rwmb_precios                 = bt_check_get_tour_rwmb_data( 'tour_precios', $post_id );
-            BoldThemesFrameworkTemplate::$tour_rwmb_viva_plus               = bt_check_get_tour_rwmb_data( 'tour_viva_plus', $post_id );
-            BoldThemesFrameworkTemplate::$tour_rwmb_suplementos             = bt_check_get_tour_rwmb_data( 'tour_suplementos', $post_id );
             BoldThemesFrameworkTemplate::$tour_rwmb_additional_custom       = bt_check_get_tour_rwmb_data( 'tour_additional_custom', $post_id );
 
             //map files
