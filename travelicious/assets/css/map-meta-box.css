@@ -1,0 +1,41 @@
+.maparea {
+	height: 50vh;
+	width: 100%;
+}
+
+.boldthemes_tourplan_wrapper{
+    color: #72777c;
+    opacity: 1;
+    padding: 15px;
+    background-color: #f7f7f7;
+    /*border-top: 3px solid #e5e5e5;*/
+}
+
+.boldthemes_tourplan_wrapper span{
+    color: #000;
+    opacity: 1;
+    font-weight: 600;
+    text-align: left;
+    line-height: 2.3;
+    border-top:15px;
+    
+}
+
+.boldthemes_tourplan_wrapper input[type="text"] {
+    border: 1px solid #ddd;
+    background-color: #fff;
+    color: #32373c;
+    outline: 0;
+    transition: 50ms border-color ease-in-out;
+    border-top:15px;
+    width:100%;
+}
+
+.mce-branding{
+    display:none;
+}
+
+.mce-menubar{
+    display:none;
+}
+
